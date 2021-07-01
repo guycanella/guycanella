@@ -3,11 +3,14 @@
 <h1 align="center">Hi, I'm Guilherme Canella!</h1>
 <h3 align="center">Full Stack & Data Scientist</h3>
 
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guycanella&show_icons=true&locale=en" alt="guycanella" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guycanella&show_icons=true&locale=en" alt="guycanella" /></p>
-</div></br></br></br>
+<table>
+    <tbody>
+        <tr>
+            <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guycanella&show_icons=true&locale=en" alt="guycanella" /></td>
+            <td>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guycanella&show_icons=true&locale=en" alt="guycanella" /></td>
+        </tr>
+    </tbody>
+</table>
 
 - 🔭 Finishing my PhD - Title:  **Quantum phase transitions in disordered nanostructures**<!--[Quantum phase transitions in disordered nanostructures](algumalink.com)-->
 
