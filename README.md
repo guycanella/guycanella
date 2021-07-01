@@ -7,7 +7,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guycanella&show_icons=true&locale=en" alt="guycanella" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guycanella&show_icons=true&locale=en" alt="guycanella" /></p>
-</div></br></br>
+</div></br></br></br>
 
 - 🔭 Finishing my PhD - Title:  **Quantum phase transitions in disordered nanostructures**<!--[Quantum phase transitions in disordered nanostructures](algumalink.com)-->
 
