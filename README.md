@@ -1,3 +1,5 @@
+![Foto de capa](wallpaper.png)
+
 <h1 align="center">Hi, I'm Guilherme Canella!</h1>
 <h3 align="center">Full Stack & Data Scientist</h3>
 
