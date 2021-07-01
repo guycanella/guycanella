@@ -3,6 +3,10 @@
 <h1 align="center">Hi, I'm Guilherme Canella!</h1>
 <h3 align="center">Full Stack & Data Scientist</h3>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guycanella&show_icons=true&locale=en" alt="guycanella" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guycanella&show_icons=true&locale=en" alt="guycanella" /></p>
+
 - 🔭 Finishing my PhD - Title:  **Quantum phase transitions in disordered nanostructures**<!--[Quantum phase transitions in disordered nanostructures](algumalink.com)-->
 
 - 🌱 I’m currently learning: **Javascript**
@@ -46,7 +50,3 @@
     
 <!--     GIT     -->
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guycanella&show_icons=true&locale=en" alt="guycanella" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guycanella&show_icons=true&locale=en" alt="guycanella" /></p>
