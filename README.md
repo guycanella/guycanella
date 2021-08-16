@@ -12,17 +12,17 @@
     </tbody>
 </table>
 
-- 🔭 Finishing my PhD - Title:  **Quantum phase transitions in disordered nanostructures**<!--[Quantum phase transitions in disordered nanostructures](algumalink.com)-->
+- 🔭 Working as:  **Front-end Web Developer** at **Corebiz**<!--[Quantum phase transitions in disordered nanostructures](algumalink.com)-->
 
-- 🌱 I’m currently learning: **Javascript**
+- 🌱 I’m currently learning: **ReactJs** and **VTEX**
 
 - 👨‍💻 All of my projects are available at **comming soon**<!--[meusite.com](meusite.com)-->
 
 - 📝 I regularly write articles on **comming soon**<!--[blog.com](blog.com)-->
 
-- 💬 Ask me about: **Quantum mechanics, Data Science**
+- 💬 Ask me about: **Front-end Developing, Quantum mechanics, Data Science**
 
-- 📫 Contact me:  **guycanella@gmail.com**
+- 📫 Contact me:  **guilherme.canella@corebiz.ag**
 
 - 📄 Know about my experiences: [resume](https://drive.google.com/file/d/1YTG77f1c-vrbFnbYbZB1Ov-0__l6V5D9/view?usp=sharing)
 
