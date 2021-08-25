@@ -22,7 +22,7 @@
 
 - 💬 Ask me about: **Front-end Developing, Quantum mechanics, Data Science**
 
-- 📫 Contact me:  **guilherme.canella@corebiz.ag**
+- 📫 Contact me:  **guycanella@gmail.com**
 
 - 📄 Know about my experiences: [resume](https://drive.google.com/file/d/1YTG77f1c-vrbFnbYbZB1Ov-0__l6V5D9/view?usp=sharing)
 
