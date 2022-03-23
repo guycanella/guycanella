@@ -14,7 +14,7 @@
 
 - 🔭 Working as:  **Front-end Web Developer** at **Corebiz**<!--[Quantum phase transitions in disordered nanostructures](algumalink.com)-->
 
-- 🌱 I’m currently learning: **ReactJs** and **VTEX**
+- 🌱 I’m currently learning: **Gatsby** and **VTEX faststore**
 
 - 👨‍💻 All of my projects are available at **comming soon**<!--[meusite.com](meusite.com)-->
 
